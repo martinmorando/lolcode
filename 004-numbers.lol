@@ -18,6 +18,8 @@ BTW - Multiplication
 VISIBLE PRODUKT OF x AN y   BTW Output: 4.60
 BTW - Division
 VISIBLE QUOSHUNT OF x AN y  BTW Output: 0.86
+BTW - Modulus
+VISIBLE MOD OF x AN y       BTW Output: 2.00
 
 
 KTHXBYE
