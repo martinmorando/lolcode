@@ -22,4 +22,11 @@ BTW - Modulus
 VISIBLE MOD OF x AN y       BTW Output: 2.00
 
 
+BTW Smaller and bigger
+BTW - Smaller
+VISIBLE SMALLR OF x AN y    BTW Output: 2.00
+BTW - Bigger
+VISIBLE BIGGR OF x AN y     BTW Output: 2.30
+
+
 KTHXBYE
